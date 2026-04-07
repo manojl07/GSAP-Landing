@@ -31,8 +31,8 @@ const About = () => {
 		 <div className="md:col-span-8">
 			<p className="badge">Best Cocktails</p>
 			<h2>
-			 Where every detail matters <span className="text-white">-</span>
-				from muddle to garnish
+			 Where every detail matters <span className="text-white">- </span>
+				 from muddle to garnish
 			</h2>
 		 </div>
 		 
